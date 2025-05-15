@@ -1,5 +1,9 @@
 # GBA1-multiomics
-Analysis of multiomic data for GBA1 related disease mechanisms
+
+Last Updated: May 2025
+
+# Summary
+The following repository encompasses all scripts developed and used in the manuscript titled "Dissecting the biological impact of GBA1 mutations using multi-omics in an isogenic setting". This study explores potential molecular mechanisms and downstream consequences of GCase reduction.
 
 # Analyses
 
