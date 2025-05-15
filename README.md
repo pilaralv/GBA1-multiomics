@@ -14,7 +14,7 @@ Each analysis directory includes:
 
 | Analysis Directory       | Description |
 |--------------------------|-------------|
-| `00_ONT_RNA`             | 1) Process raw Illumina RNA data to get a final table of quantifications. 2) Clean up .adat file received from Somalogic for downstream analysis. |
-| `01_Illumina_RNA`        | 1) Generate PCs, make PCA plots, and add PCs to analysis tables. 2) Generate scree plots of PCs to determine how many to keep for analysis. |
-| `02_ONT_DNA`             | 1) Run regression with GBA1 genotypes vs outcomes (genes, proteins, metabolites). 2) Generate QQ plot to check lambda values. |
-| `03_Branchpoint_predictions` | 1) Example scripts of how figures were plotted and made. |
+| `00_raw_processing`             | 1) Process raw Illumina RNA data to get a final table of quantifications. 2) Clean up .adat file received from Somalogic for downstream analysis. |
+| `01_PCA_scree`        | 1) Generate PCs, make PCA plots, and add PCs to analysis tables. 2) Generate scree plots of PCs to determine how many to keep for analysis. |
+| `02_regressions`             | 1) Run regression with GBA1 genotypes vs outcomes (genes, proteins, metabolites). 2) Generate QQ plot to check lambda values. |
+| `03_plots` | 1) Example scripts of how figures were plotted and made. |
